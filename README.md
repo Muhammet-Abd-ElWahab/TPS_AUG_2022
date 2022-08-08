@@ -1,1 +1,1 @@
-# TPS_AUG_2022
+# Tabular Playground Series August 2022 Competition kaggle
