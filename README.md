@@ -15,3 +15,8 @@ very general - the author tried this on multiple competitions. The code is minim
 
 same author as above. Poor quality 
 
+
+
+### partly useful
+
+[TPS Aug 22 - Failure Prediction | Kaggle](https://www.kaggle.com/code/samuelcortinhas/tps-aug-22-failure-prediction)
